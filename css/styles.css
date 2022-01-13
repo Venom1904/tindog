@@ -168,4 +168,8 @@ h2{
     #title{
         text-align: center;
     }
+    
+    .nav-item{
+        text-align: right;
+    }
 }
